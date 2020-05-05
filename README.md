@@ -1,10 +1,9 @@
 # TrabajoEntornoSprintPersonal
 
-Proyecto Aplicación Web
 Proyecto de diseño de una aplicación web para la asignatura Entorno de Desarrollo curso 2019-2020
 
-Nombre de la aplicación: MYDRINKPARTY
-Nombre del alumno: BERNT JIMENEZ SANCHEZ
+Nombre de la aplicación: MY-DRINK-PARTY
+Nombre del alumno: BERNY JIMENEZ SANCHEZ
 Especificaciones:
 Sprint: 2
 
