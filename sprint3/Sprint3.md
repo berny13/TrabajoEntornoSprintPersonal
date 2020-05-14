@@ -1,3 +1,3 @@
 ## DIAGRAMA DE CLASES Y SUS RELACIONES
 
-![mockup](./imagenes/RelacionesEntorno.jpeg)
+![mockup](./imagenes/Relaciones%20Entorno.png)
