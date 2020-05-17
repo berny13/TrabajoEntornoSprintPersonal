@@ -1,6 +1,6 @@
 package Sprint3;
 
-public class Bebidas {
+public class Bebidas Extends Usuario {
 	String vino;
 	String cerveza;
 	String ron;
