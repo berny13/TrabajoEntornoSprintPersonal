@@ -1,20 +1,23 @@
 package Sprint3;
 
-public class Ron {
-	String eligeron;
+public class Ron extends Bebidas {
 
-	public Ron(String eligeron) {
-		super();
-		this.eligeron = eligeron;
+	public Ron(){
+		this("ron");
 	}
-	
-	
-	public boolean CompraRon() {
-		return true;
-	
+	public Ron(String ron) {
+		// TODO Auto-generated constructor stub
 	}
-	
-	public void beber() {
-		
+	public void Ron(String ron){
+		super(ron);
+		System.out.println("elige ron");
 	}
+
+	@Override
+	public String toString(){
+		return "Bebidas: "+ super.getRon();
+	}
+
+	
+	
 }
