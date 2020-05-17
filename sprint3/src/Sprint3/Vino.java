@@ -1,19 +1,21 @@
 package Sprint3;
 
-public class Vino {
-	String eligevino;
+public class Vino extends Bebidas {
+	
+	
+	public Vino(){
+		this("Vino");
+	}
+	public Vino(String vino) {
+		// TODO Auto-generated constructor stub
+	}
+	public void Vino(String vino){
+		super(Vino);
+		System.out.println("elige Vino");
+	}
 
-	public Vino(String eligevino) {
-		super();
-		this.eligevino = eligevino;
-	}
-	
-	public boolean CompraVino() {
-		return true;
-		
-	}
-	
-	public void Beber() {
-		
+	@Override
+	public String toString(){
+		return "Bebidas: "+ super.getVino();
 	}
 }
