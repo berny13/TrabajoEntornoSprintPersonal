@@ -39,3 +39,6 @@
 ![mockup](./imagenes/Ficha%20Tecnica1.jpg)
 
 ## Diagramas de caso de uso 2
+![mockup](./imagenes/Diagramadeacasos2.jpeg)
+![mockup](./imagenes/Ficha%20tecnica2.jpg)
+
