@@ -5,7 +5,7 @@
 
 Nombre de la aplicación: **MY DRINK PARTY**
 
-Nombre del alumno: **Berny Jimenez Sanchez**
+Nombre del alumno: **[Berny Jimenez](https://www.linkedin.com/in/berny-jiménez-7027a7177)**
 
 > Especificaciones:
 * Sprint:
