@@ -28,3 +28,14 @@
  * Github
  
 > Bibliografía usada:
+
+
+# Sprint 4
+
+## Diagramas de caso de uso 1
+
+![mockup](./imagenes/Casos%20de%20uso1.jpeg)
+
+![mockup](./imagenes/Ficha%20Tecnica1.jpg)
+
+## Diagramas de caso de uso 2
