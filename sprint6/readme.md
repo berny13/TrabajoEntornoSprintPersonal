@@ -49,7 +49,7 @@
   <tr>
     <td style="width: 15%;">Text Editor</td>
     <td style="width: 20%;">Eclipse</td>
-    <td style="width: 20%;"><img src="./imagenes/vscode.png" width="30"/></td>
+    <td style="width: 20%;"><img src="./imagenes/eclipse.png" width="30"/></td>
     <td style="width: 34%;">He elegido este editor debido a la facilidad que genera al permitir dependencias e implementarlas directamente lo cual me ha ahorrado mucho tiempo</td>
   </tr>
   <tr>
@@ -79,13 +79,13 @@
   <tr>
     <td style="width: 15%;">CSS Preprocessor</td>
     <td style="width: 20%;">Sass</td>
-    <td style="width: 20%;"><img src="./imagenes/sass.jpg" width="30"/></td>
+    <td style="width: 20%;"><img src="./imagenes/sass.png" width="30"/></td>
     <td style="width: 34%;">Cualquier preprocesador es perfectamente válido. Podríamos sin duda elegir otras alternativas como Less o Stylus y estaría bien para nosotros y nuestro proyecto, ya que al final todos ofrecen más o menos las mismas utilidades. Pero sin embargo, Sass se ha convertido en el preprocesador más usado y el más demandado. a nivel comercial es mejor conocer como utilizarlo para nuestro futuro laboral</td>
   </tr>
   <tr>
     <td style="width: 15%;">OOCSS and Style Guide</td>
     <td style="width: 20%;">Pattern Lab</td>
-    <td style="width: 20%;"><img src="./imagenes/Pattern%Lab.png" width="30"/></td>
+    <td style="width: 20%;"><img src="./imagenes/Pattern%20Lab.png" width="30"/></td>
     <td style="width: 34%;">En esencia, Pattern Lab es un generador de sitio estático alimentado por Node que une los componentes de la interfaz de usuario. por lo cual en mi caso me ha facilitado el trabajo</td>
   </tr>
   <tr>
@@ -103,7 +103,7 @@
   <tr>
     <td style="width: 15%;">Front-End Performance</td>
     <td style="width: 20%;">WebPagetest</td>
-    <td style="width: 20%;"><img src="./imagenes/WebPagetest.png" width="30"/></td>
+    <td style="width: 20%;"><img src="./imagenes/WebPagetest.jpg" width="30"/></td>
     <td style="width: 34%;">ya que nos permite valorar y analizar el tiempo de carga y al ser gratuita</td>
   </tr>
   <tr>
@@ -121,7 +121,7 @@
   <tr>
     <td style="width: 15%;">Process Automation</td>
     <td style="width: 20%;">Grunt</td>
-    <td style="width: 20%;"><img src="./imagenes/grunt.png" width="30"/></td>
+    <td style="width: 20%;"><img src="./imagenes/grunt.jpg" width="30"/></td>
     <td style="width: 34%;">Nos permite  automatizar las tareas en nuestros proyectos</td>
   </tr>
   <tr>
