@@ -43,7 +43,7 @@
   <tr>
     <td style="width: 15%;">Core</td>
     <td style="width: 20%;">NODEJS</td>
-    <td style="width: 20%;"><img src="./imagenes/core.jpg" width="30"/></td>
+    <td style="width: 20%;"><img src="./imagenes/node.png" width="30"/></td>
     <td style="width: 34%;">Al implementar dependencias de Bootstrap se utilizan diferentes tecnologias entre ellas NodeJS en mi caso al conocer poco pienso que es la que he visto mas utilizada en mi entorno por lo cual sera la que utilizare</td>
   </tr>  
   <tr>
