@@ -34,4 +34,4 @@
 ![mockup](./imagenes/DiagramaActvidades1.png)
 
 ## Diagrama de actividades 2
-![mockup](./imagenes/DiagramaActividades2.png)
+![mockup](./imagenes/DiagramaDeActividades2.png)
